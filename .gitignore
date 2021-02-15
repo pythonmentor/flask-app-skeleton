@@ -1,0 +1,13 @@
+# Répertoires de configuration des éditeurs courants
+.vscode/
+.idea/
+
+# Répertoires liés au code python compilé
+__pycache__/
+
+# Répertoires et modules liés à l'environnement de l'application
+env/
+.env
+
+# Fichiers spécifiques à un OS
+.DS_Store
